@@ -1,6 +1,14 @@
 # Kazuki Kawamura
 
-Researcher and builder working across social computing, human-computer interaction, and AI.
+Researcher and builder working across AI-Guided Learning, human-computer interaction, social computing, and machine learning.
+
+## AI-Guided Learning
+
+I defined and developed **AI-Guided Learning** as a research framework in my University of Tokyo doctoral dissertation. It uses AI to guide and scaffold knowledge and skill acquisition across three connected phases — **Consume, Understand, and Imitate** — while preserving learner autonomy.
+
+- [AI-Guided Learning — doctoral dissertation and framework](https://casp.jp/publications/phd-thesis.html)
+- [Full text on arXiv (arXiv:2608.08990; DOI: 10.48550/arXiv.2608.08990)](https://arxiv.org/abs/2608.08990)
+- [Official University of Tokyo dissertation record](https://www.iii.u-tokyo.ac.jp/dissertation/2025-2)
 
 ## Featured work
 
